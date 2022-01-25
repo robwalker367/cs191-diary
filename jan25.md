@@ -1,8 +1,9 @@
 # January 25
 
-Joseph Weizenbaum's *ELIZA - A Computer Program for the Study of Natural Language Communication between Man and Machine (1966)*
+Joseph Weizenbaum's *ELIZA - A Computer Program for the Study of Natural Language Communication between Man and Machine* (1966)
 
 ### Context
+![Joseph Weizenbaum](/assets/weizenbaum.jpg)
 - Joseph Weizenbaum (1923 - 2008)
   - German Jewish refugee
   - Math / computing @ Wayne State University
@@ -23,7 +24,7 @@ Joseph Weizenbaum's *ELIZA - A Computer Program for the Study of Natural Languag
   - Identify some context
   - Apply a transformation rule
 - Weizenbaum seems to argue that the "specialness" of ELIZA is projected upon it by the human interacting with the machine (similar to Life of Pi and the tiger)
-- People develop their own models of the machine, alternating between *credibility* and *plausibility*; the most convincing model is the "therapist model" which makes it seem like the machine know; Weizenbaum argues that the "therapist model" is the only "serious" model
+- People develop their own models of the machine, alternating between *credibility* and *plausibility*; the most convincing model is the "therapist model" which makes it seem like the machine knows things; Weizenbaum argues that the "therapist model" is the only "serious" model
 - ELIZA connects with Turing's *Computing Machinery and Intelligence* (1951)
 - Weizenbaum argues that ELIZA is a "translating processor" (similar to the Chinese Room argument - it does not actually understand)
 
