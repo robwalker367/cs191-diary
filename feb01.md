@@ -8,7 +8,9 @@
   - 18-19th C. British mathematician, professor @ Cambridge
   - "Difference Engine" system of gears / wheels calculating polynomials
   - Conceived of "Analytical Engine" in mid-1830s
-- Ada Augusta
+  - Asked Prince Albert for funding for the Analytical Engine
+  - Emphasized the military benefits of the machine, specifically the navy (supporting colonialism / imperialism)
+- Ada Augusta Lovelace
   - 19th C. English mathematician, daughter of Lord Byron
   - Recognized greater possibilities of Babbage's Analytical Engine, created the first algorithm for the machine
 - Analytical Engine was not able to be built due to limits of technology at the time
@@ -40,7 +42,7 @@
 - Key objects:
   - Operations
   - Variables
-  - Mil
+  - Mill
 - Variables stored on rotating discs, loaded into a mill (almost like an ALU), operation operates, then result is loaded back
 - Punch-card mechanism based on Jacquard's weaving punch-card mechanism
 - Lovelace then expands upon what Babbage imagines, arguing that the Analytical Engine can be used more abstractly and do more than expected
@@ -48,13 +50,16 @@
 **Questions**
 - Who is the audience here? Why is Babbage making these arguments? Who is the patron?
 
+
 ## Howard Hathaway Aiken *A Proposed Automatic Calculating Machine* (1937)
 
 ### Context
 - Howard Aiken
   - 20th C. physics professor @ Harvard
   - Academic, military, and industrial background
-  - Proposed industrial support for Mark I development
+  - Proposed industrial support for Mark I development (Automatic Sequence Control Calculator)
+  - Military sponsorship from ballistic computations
+  - Not interested in Lovelace's metaphysical questions, just wanted aid in computing numeric tables (which were full of errors from human computation)
 
 ### Paper
 
@@ -69,3 +74,6 @@
 **Questions**
 - Why are calculating machines built?
 - Who is Aiken's audience? Why is he writing this proposal? What is the impact of patronage on this proposal?
+- Is Mark 1 a general purpose computer?
+  - Argument no: tape loop
+  - Argument yes: not Turing-complete
