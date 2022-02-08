@@ -8,3 +8,13 @@
 - Why is the author making these arguments?
 - How is the author making these arguments?
 - How does the paper connect to other papers and ideas?
+
+### Diary
+
+- Mention one key concept for discussion
+
+### Video Project
+
+- Classic paper - noteworthy for vision or impact (may even be wrong!)
+- 5-minutes exactly
+- Pitch your idea (not necessarily high production value, but should be decent)
